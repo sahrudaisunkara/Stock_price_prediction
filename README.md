@@ -9,9 +9,8 @@ Each stock is modeled independently using a dedicated LSTM network and stock-spe
 
 📈 Next trading session High & Low prediction
 🧠 LSTM-based deep learning models
-🔄 Live stock data using Yahoo Finance
 📊 Moving Average (MA20 & MA50) trend analysis
 🧩 Stock-specific models and scalers
 🖥️ Interactive Streamlit web interface
 🔁 Multi-stock support
-⚙️ Production-oriented and modular architecture
+
